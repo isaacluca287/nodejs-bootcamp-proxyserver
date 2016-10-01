@@ -15,6 +15,11 @@ Completed:
 * [] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 * [] Optional: The `--exec` argument proxies stdin/stdout to/from the destination program
 
+NodeSchool.io Workshoppers:
+
+![alt tag](javascripting.png)
+![alt tag](learnyounode.png)
+
 Walkthrough Gif:
 [Add bootcamp-project0.gif to the project root]
 
